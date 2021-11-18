@@ -6,3 +6,6 @@ export function calcAreaTriangle(width: number, height: number): number {
     return width * height / 2;
 }
 
+export function multiply(a:number, b:number) {
+    return a * b
+}
